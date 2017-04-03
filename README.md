@@ -1,8 +1,9 @@
 # BasicPythonNeuralNetwork
-Only use Numpy to build a basic neural network
+Only use Numpy to build a basic neural network.
+
 This is inspired by http://iamtrask.github.io/2015/07/12/basic-python-network/
 
-original sample:
+Original Sample:
 
 <table>
   <tbody><tr>
