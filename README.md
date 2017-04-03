@@ -4,6 +4,33 @@ This is inspired by http://iamtrask.github.io/2015/07/12/basic-python-network/
 
 original sample:
 
-Input | Output 
-------|------
-0|0|1 | 0 
+<table>
+  <tbody><tr>
+    <th colspan="3">Inputs</th>
+    <th >Output</th>
+  </tr>
+  <tr>
+    <td >0</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+</tbody></table>
