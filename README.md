@@ -4,6 +4,7 @@ Only use Numpy to build a basic neural network.
 This is inspired by 
 
 http://iamtrask.github.io/2015/07/12/basic-python-network/
+
 https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
 
 Original Sample:
